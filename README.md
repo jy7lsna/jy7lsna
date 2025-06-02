@@ -11,8 +11,6 @@
 - 🔧 Build responsive, animated websites with **MERN / Next.js**
 - 🎨 Design sleek, intuitive UIs with **Figma**
 - 🧠 Tinker with machine learning & recommender systems
-- 🎤 Support underground artists through tech (shoutout to Tarang 🎶)
-
 ---
 
 ## 🌱 Currently Exploring
@@ -29,7 +27,6 @@
 - 📍 Based in India  
 - 🧠 Avid bibliophile, Cinephile!!
 - ⚡ Sometimes I design, sometimes I debug, always caffeinated  
-- 🐭 Still not over those rats with cheese
 
 ---
 
