@@ -39,4 +39,3 @@ Passionate about building meaningful digital experiences.
 - LeetCode: [@jy7lsna](https://leetcode.com/u/jy7lsna/)
 - GitHub: [@jy7lsna](https://github.com/jy7lsna)
 
-> *"Code it like it matters. Design it like they'll remember."*
