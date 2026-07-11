@@ -1,41 +1,34 @@
-# Hi, I'm Jyolsna Joemon
+# hi, i'm jyolsna 
 
-A creative technologist blending code with design.  
-Full-stack web developer | UI/UX Designer | Exploring AI/ML  
-Passionate about building meaningful digital experiences.
+currently learning about ai agents, llm infrastructure, and backend systems.
 
----
+i like building software, understanding how systems work, and documenting what i learn.
 
-## What I Do
-
-- Build responsive, animated websites with **MERN / Next.js**
-- Design sleek, intuitive UIs with **Figma**
-- Work with machine learning & recommender systems
+outside of programming you'll probably find me reading books, watching films, or listening to music.
 
 ---
 
-## Currently Exploring
+## current focus
 
-- Deep diving into **Data Structures & Algorithms**
-- Strengthening my **AI/ML foundation**
-- Working on SaaS, recommender systems & chatbots
-- Building side projects that blend tech + creativity
-
----
-
-## About
-
-- Based in India  
-- Avid bibliophile and cinephile
-- Designer, developer, coffee enthusiast
+- ai agents
+- backend engineering
+- distributed systems
+- technical writing
 
 ---
 
-## Connect
+## now playing
 
-- Behance: [jyolsna.me](https://www.behance.net/jyolsnajoemon)
-- LinkedIn: [linkedin.com/in/jyolsna](https://www.linkedin.com/in/jyolsna-joemon/)
-- Twitter: [@jy7lsna](https://twitter.com/jy7lsna)
-- LeetCode: [@jy7lsna](https://leetcode.com/u/jy7lsna/)
-- GitHub: [@jy7lsna](https://github.com/jy7lsna)
+<p>
+  <a href="https://open.spotify.com/user/69tf1wj7n20l4ikl2wrfkm5s3">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=69tf1wj7n20l4ikl2wrfkm5s3&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false" />
+  </a>
+</p>
 
+---
+
+## connect w me
+
+- GitHub: https://github.com/jy7lsna
+- LinkedIn: https://linkedin.com/in/jy7lsna
+- X: https://x.com/jy7lsna
