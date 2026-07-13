@@ -1,19 +1,10 @@
-# hi, i'm jyolsna 
+# Hi, I'm Jyolsna 
 
 currently learning about ai agents, llm infrastructure, and backend systems.
 
 i like building software, understanding how systems work, and documenting what i learn.
 
 outside of programming you'll probably find me reading books, watching films, or listening to music.
-
----
-
-## current focus
-
-- ai agents
-- backend engineering
-- distributed systems
-- technical writing
 
 ---
 
